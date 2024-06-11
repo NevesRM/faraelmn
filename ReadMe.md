@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Sou estudante de Front end<br>🔍 Estou a procura de estágio<br>👨‍💻 Trabalhando com linguagem JavaScript/ html/ CSS
+👨‍🎓 Sou estudante de Programação<br>🔍 Estou a procura de estágio<br>👨‍💻 Trabalhando com linguagem JavaScript / html / CSS / Bootstrap / ngrok / npm
 
 
 ## 🌐 Socials:
